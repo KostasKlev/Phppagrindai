@@ -7,5 +7,7 @@
     <li> <a href="/task5.php?ugis=3&svoris=5">uzduotis 5</a>
     `<li> <a href="/task6.php?ugis=3&svoris=5">uzduotis 6</a> </li>
     <li> <a href="/task7.php?kilometrai=100&litrai=7">uzduotis 7</a> </li>
+    <li> <a href="/task8.php?kilometrai=100&litrai=7">uzduotis 8</a> </li>
+    <li> <a href="/task9.php?kilometrai=100&litrai=7">uzduotis 9</a> </li>
 
 </ul>

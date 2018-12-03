@@ -1,7 +1,7 @@
 <?php
 include ("Fragments/menu.php");
-$skaicius = $_REQUEST["a"];
 
+$skaicius = $_REQUEST["a"];
 $skaicius1 = $_REQUEST["b"];
 
 $suma = $skaicius + $skaicius1;
